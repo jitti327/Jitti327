@@ -46,9 +46,11 @@
 
 ## Featured Projects
 
-- [Project One](https://github.com/jitti327/project-one) — Short one-line description.
-- [Project Two](https://github.com/jitti327/project-two) — Short one-line description.
-- [Project Three](https://github.com/jitti327/project-three) — Short one-line description.
+- [Atmoscope Weather](https://www.atmoscopeweather.online/) — Weather forecast desk for serious sky-watching.
+
+- [Portfolio](https://jatinder-portfolio.online/) — A modern portfolio showcasing my experience as a Lead Full-Stack Engineer, featuring my projects, technical expertise, and professional journey in building scalable web applications with Angular, Ember.js, NestJS, Node.js, and TypeScript.
+
+<!-- - [Project Three](https://github.com/jitti327/project-three) — Short one-line description. -->
 
 ## Contribution Graph
 
